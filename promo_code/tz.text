@@ -1,0 +1,4 @@
+---bloger
+* id int
+* name varchar(32)
+* promocode text

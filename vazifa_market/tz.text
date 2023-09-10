@@ -1,0 +1,31 @@
+### Workers
+* id
+*name
+*occupation default Worker
+
+### Maneger
+* id
+* name
+* username
+* password
+
+### Sklad
+* id
+* mahsulot_turi
+
+### mahsulor_1
+* id 
+* name
+* count
+* price
+* id_skad
+
+### Get_change
+* mahsulot_id
+* Sklad_id
+* count
+*time
+
+
+
+
